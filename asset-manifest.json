@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Emoji-Dictionary-with-React/static/css/main.5439f17f.chunk.css",
+    "main.js": "/Emoji-Dictionary-with-React/static/js/main.78d81edd.chunk.js",
+    "main.js.map": "/Emoji-Dictionary-with-React/static/js/main.78d81edd.chunk.js.map",
+    "runtime-main.js": "/Emoji-Dictionary-with-React/static/js/runtime-main.42ee4b37.js",
+    "runtime-main.js.map": "/Emoji-Dictionary-with-React/static/js/runtime-main.42ee4b37.js.map",
+    "static/js/2.2c75b544.chunk.js": "/Emoji-Dictionary-with-React/static/js/2.2c75b544.chunk.js",
+    "static/js/2.2c75b544.chunk.js.map": "/Emoji-Dictionary-with-React/static/js/2.2c75b544.chunk.js.map",
+    "index.html": "/Emoji-Dictionary-with-React/index.html",
+    "precache-manifest.b1b4cfc5a4a26c2c1392ca203513d00b.js": "/Emoji-Dictionary-with-React/precache-manifest.b1b4cfc5a4a26c2c1392ca203513d00b.js",
+    "service-worker.js": "/Emoji-Dictionary-with-React/service-worker.js",
+    "static/css/main.5439f17f.chunk.css.map": "/Emoji-Dictionary-with-React/static/css/main.5439f17f.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42ee4b37.js",
+    "static/js/2.2c75b544.chunk.js",
+    "static/css/main.5439f17f.chunk.css",
+    "static/js/main.78d81edd.chunk.js"
+  ]
+}
